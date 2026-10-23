@@ -1,0 +1,56 @@
+{
+  "system": "B2B → 1С",
+  "generated_at": "2026-10-22T11:05:00+03:00",
+  "last_success_at": "2026-10-22T07:58:02+03:00",
+  "jobs": [
+    {
+      "id": 88414,
+      "status": "pending",
+      "attempts": 190,
+      "created_at": "2026-10-22T07:57:40+03:00",
+      "last_error": "HTTP 422: Контрагент не найден"
+    },
+    {
+      "id": 88415,
+      "status": "pending",
+      "attempts": 0,
+      "created_at": "2026-10-22T08:03:12+03:00"
+    },
+    {
+      "id": 88416,
+      "status": "pending",
+      "attempts": 0,
+      "created_at": "2026-10-22T08:11:55+03:00"
+    },
+    {
+      "id": 88417,
+      "status": "pending",
+      "attempts": 0,
+      "created_at": "2026-10-22T08:30:07+03:00"
+    },
+    {
+      "id": 88418,
+      "status": "pending",
+      "attempts": 0,
+      "created_at": "2026-10-22T09:02:48+03:00"
+    },
+    {
+      "id": 88419,
+      "status": "pending",
+      "attempts": 0,
+      "created_at": "2026-10-22T09:40:21+03:00"
+    },
+    {
+      "id": 88420,
+      "status": "pending",
+      "attempts": 0,
+      "created_at": "2026-10-22T10:15:33+03:00"
+    },
+    {
+      "id": 88421,
+      "status": "pending",
+      "attempts": 0,
+      "created_at": "2026-10-22T10:58:02+03:00"
+    }
+  ]
+}
